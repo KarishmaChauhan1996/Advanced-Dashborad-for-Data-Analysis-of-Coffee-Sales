@@ -2,7 +2,7 @@
 
 Goal of the case study:
 
-- We worked with Coffe Sales dataset using Power BI Tool. We analyzed the data and answered the key business questions with the help of dashboards and report and derive insights.
+- We worked with Coffee Sales dataset. Using Power BI Tool, we analyzed the data and answered the key business questions with the help of dashboards and report and derive insights.
 
 While building dashboards, we cleaned the data. Once we cleaned the data, we answered below questions:
 
