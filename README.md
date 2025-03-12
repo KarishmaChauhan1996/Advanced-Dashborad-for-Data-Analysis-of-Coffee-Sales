@@ -1,4 +1,4 @@
-# Advanced-Dashborad-for-Data-Analysis-of-Coffee-Sales
+# Advanced Data Analysis-PowerBI Dashborad-for-Coffee-Sales
 
 Goal of the case study:
 We worked with Coffe Sales dataset using Power BI Tool. We analyzed the data and answered the key business questions with the help of dashboards and report and derive insights.
