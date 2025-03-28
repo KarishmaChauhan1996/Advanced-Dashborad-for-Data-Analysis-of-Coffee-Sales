@@ -1,8 +1,8 @@
-# Advanced Data Analysis-PowerBI Dashborad-for-Coffee-Sales
+# Overview
 
-Goal of the case study:
+This project involves a comprehensive analysis of with Coffee Sales dataset. Using Power BI Tool, we analyzed the data and answered the key business questions with the help of dashboards and report and derive insights.The following README provides a detailed account of the project's objectives, business problems, solutions, findings, and conclusions.
 
-- We worked with Coffee Sales dataset. Using Power BI Tool, we analyzed the data and answered the key business questions with the help of dashboards and report and derive insights.
+# Business Case
 
 While building dashboards, we cleaned the data. Once we cleaned the data, we answered below questions:
 
@@ -12,6 +12,7 @@ While building dashboards, we cleaned the data. Once we cleaned the data, we ans
 -  What additional data can be helpful to add more insights & value to the team?
 
 ### Final Deliverables: 
+
 -  Analytics Dashboard using Power BI Tool 
 -  Detailed document summarizing the insights
 
@@ -36,9 +37,9 @@ While building dashboards, we cleaned the data. Once we cleaned the data, we ans
 - Calculated difference in total quantity sold betweeen selected month and previous month.
   
 
-### Business Questions:
+## Business Questions:
 
-Some of the insights that we were able to derive  using our data analysis tool:
+Some of the insights that we were able to derive using our data analysis tool:
 
 - Implemented a calendar heatmap that dynamically adjusts based on selected month on slicer.
 - Implemeted tooltips to display detailed metrics when hovering over a specific day.
@@ -51,7 +52,7 @@ Some of the insights that we were able to derive  using our data analysis tool:
 - Indentified and displayed the top 10 products based on sales volume.
 - Utilized heatmap to visualize sales patterns by days and hours.
 
-### Data Dictionary
+## Data Dictionary
 
 - transaction_id
 - transaction_date
